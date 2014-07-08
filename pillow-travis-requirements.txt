@@ -1,0 +1,4 @@
+cffi
+coveralls
+nose
+pyroma
